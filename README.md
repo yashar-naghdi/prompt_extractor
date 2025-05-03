@@ -1,10 +1,4 @@
-# prompt_extractor
 
-
-## Project Description
-Prompt Extractor is a Python tool designed to extract  all the prompts that one has written in ChatGPT.It is useful for extracting conversations for future use.
-
-## Installation
 No installation is required. The script can be run directly in any Python environment. Ensure you have Python installed on your system.
 
 ## Usage
